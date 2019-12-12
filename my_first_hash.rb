@@ -38,7 +38,7 @@ def adding
 shipping_manifest.merge("muskets" => 2)
 
   # add 4 gun powder to the shipping_manifest hash below
-shipping_manifest.merge("gun powder"=>4)
+shipping_manifest.merge("gun powder" => 4)
 
 
   # return the shipping_manifest hash below
